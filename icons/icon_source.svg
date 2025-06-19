@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (1:1.4.2+202505120737+ebf0e940d0)"
+   sodipodi:docname="icon_privatise.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="16"
+     inkscape:cx="16.28125"
+     inkscape:cy="21.5"
+     inkscape:current-layer="g6"
+     showguides="false"
+     showgrid="true">
+    <inkscape:grid
+       id="grid2"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="0.26458333"
+       spacingy="0.26458334"
+       empcolor="#0000ff"
+       empopacity="0.25098039"
+       color="#0000ff"
+       opacity="0.1254902"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="layer-template"
+     style="display:none">
+    <rect
+       style="fill:#00ffff;fill-opacity:1;stroke:#0000ff;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:2;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="rect2"
+       width="7.9375"
+       height="7.9375"
+       x="0.2645835"
+       y="0.2645835"
+       inkscape:label="template" />
+  </g>
+  <g
+     inkscape:label="layer-icon-normal"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:none">
+    <path
+       id="rect1"
+       style="fill:none;fill-opacity:0.0543951;stroke:#0c0c0d;stroke-width:0.529167;stroke-opacity:0.8"
+       d="m 7.0579636,5.2916655 v -1.154941 m -3.22095,-3.078391 h -2.27897 c -0.2770001,0 -0.4997101,0.223227 -0.4997101,0.500227 v 5.000212 c 0,0.277 0.22271,0.4997426 0.4997101,0.4997114 l 1.9861257,-2.24e-4"
+       sodipodi:nodetypes="cccssssc"
+       inkscape:label="frame" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#0c0c0d;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.8"
+       d="m 3.6947036,4.6051125 1.8422871,-1.92425"
+       id="path1"
+       sodipodi:nodetypes="cc"
+       inkscape:label="arrow-stroke" />
+    <path
+       id="path12"
+       style="display:inline;fill:#0c0c0d;fill-opacity:0.8;stroke:none;stroke-width:0.999996"
+       d="m 4.7795186,5.8208168 c -0.067477,0.00233 -0.1373548,0.014063 -0.2098294,0.037508 -0.7903528,0.2557006 -0.5181935,1.7528461 0,2.1576861 0.6418295,0.5014255 1.0427996,-0.248055 1.6368555,-0.173799 0.4768512,0.059612 0.7949878,0.5568768 1.3392598,0.2729077 C 8.1394324,7.8053901 8.5176744,6.3195937 7.8434096,5.9327258 7.1608706,5.5410991 6.6751498,6.3819161 6.0577422,6.3047414 5.6139034,6.2492894 5.2516417,5.8052496 4.7795186,5.8208335 Z M 5.1846769,6.6020486 A 0.55076948,0.39786927 0 0 1 5.735436,6.9999281 0.55076948,0.39786927 0 0 1 5.1846769,7.397811 0.55076948,0.39786927 0 0 1 4.6338991,6.9999281 0.55076948,0.39786927 0 0 1 5.1846769,6.6020486 Z m 1.9452196,0.00577 A 0.55076948,0.39786927 0 0 1 7.680665,7.0057013 0.55076948,0.39786927 0 0 1 7.1298965,7.4035815 0.55076948,0.39786927 0 0 1 6.5791373,7.0057013 0.55076948,0.39786927 0 0 1 7.1298965,6.6078186 Z"
+       inkscape:export-filename="path12.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:label="googles" />
+    <path
+       style="fill:#0c0c0d;fill-opacity:0.8;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="M 4.6560465,1.837614 6.9980225,1.1554851 6.4192464,3.5253663 Z"
+       id="path2"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="icon-privatisator-.png"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192"
+       inkscape:label="arrow-triangle" />
+  </g>
+  <g
+     inkscape:label="layer-icon-dark-mode"
+     inkscape:groupmode="layer"
+     id="g6"
+     inkscape:export-filename="privatisator-32-32_darkmode.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96">
+    <path
+       id="path3"
+       style="fill:none;fill-opacity:0.0543951;stroke:#f9f9fa;stroke-width:0.529167;stroke-opacity:0.80000001"
+       d="m 7.0579636,5.2916655 v -1.154941 m -3.22095,-3.078391 h -2.27897 c -0.2770001,0 -0.4997101,0.223227 -0.4997101,0.500227 v 5.000212 c 0,0.277 0.22271,0.4997426 0.4997101,0.4997114 l 1.9861257,-2.24e-4"
+       sodipodi:nodetypes="cccssssc"
+       inkscape:label="frame" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#f9f9fa;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.80000001"
+       d="m 3.6947036,4.6051125 1.8422871,-1.92425"
+       id="path4"
+       sodipodi:nodetypes="cc"
+       inkscape:label="arrow-stroke" />
+    <path
+       id="path5"
+       style="display:inline;fill:#f9f9fa;fill-opacity:0.80000001;stroke:none;stroke-width:0.999996"
+       d="m 4.7795186,5.8208168 c -0.067477,0.00233 -0.1373548,0.014063 -0.2098294,0.037508 -0.7903528,0.2557006 -0.5181935,1.7528461 0,2.1576861 0.6418295,0.5014255 1.0427996,-0.248055 1.6368555,-0.173799 0.4768512,0.059612 0.7949878,0.5568768 1.3392598,0.2729077 C 8.1394324,7.8053901 8.5176744,6.3195937 7.8434096,5.9327258 7.1608706,5.5410991 6.6751498,6.3819161 6.0577422,6.3047414 5.6139034,6.2492894 5.2516417,5.8052496 4.7795186,5.8208335 Z M 5.1846769,6.6020486 A 0.55076948,0.39786927 0 0 1 5.735436,6.9999281 0.55076948,0.39786927 0 0 1 5.1846769,7.397811 0.55076948,0.39786927 0 0 1 4.6338991,6.9999281 0.55076948,0.39786927 0 0 1 5.1846769,6.6020486 Z m 1.9452196,0.00577 A 0.55076948,0.39786927 0 0 1 7.680665,7.0057013 0.55076948,0.39786927 0 0 1 7.1298965,7.4035815 0.55076948,0.39786927 0 0 1 6.5791373,7.0057013 0.55076948,0.39786927 0 0 1 7.1298965,6.6078186 Z"
+       inkscape:export-filename="path12.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:label="googles" />
+    <path
+       style="fill:#f9f9fa;fill-opacity:0.80000001;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="M 4.6560465,1.837614 6.9980225,1.1554851 6.4192464,3.5253663 Z"
+       id="path6"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="icon-privatisator-.png"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192"
+       inkscape:label="arrow-triangle" />
+  </g>
+</svg>
