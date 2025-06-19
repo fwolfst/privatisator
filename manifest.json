@@ -3,11 +3,10 @@
   "name": "Privatisator",
   "version": "0.1",
 
-
   "description": "Adds shortcut to open currently shown page in a private tab.",
 
   "icons": {
-    "48": "icons/privatisator-48.png"
+    "32": "icons/privatisator-32x32.png"
   },
 
   "permissions": ["tabs"],
