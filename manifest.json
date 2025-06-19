@@ -1,0 +1,28 @@
+{
+  "manifest_version": 2,
+  "name": "Privatisator",
+  "version": "0.1",
+
+
+  "description": "Adds shortcut to open currently shown page in a private tab.",
+
+  "icons": {
+    "48": "icons/privatisator-48.png"
+  },
+
+  "permissions": ["tabs"],
+  
+  "background": {
+    "scripts": [ "background.js" ]
+  },
+
+  "commands": {
+    "open-in-private": {
+      "suggested_key": {
+        "default": "Ctrl+Shift+F",
+        "mac": "Command+Shift+F"
+      },
+      "description": "Open current tab in a private window"
+    }
+  }
+}
