@@ -6,7 +6,8 @@
   "description": "Adds shortcut to open currently shown page in a private tab.",
 
   "icons": {
-    "32": "icons/privatisator-32x32.png"
+    "32": "icons/privatisator-32x32.png",
+    "64": "icons/privatisator-64x64.png"
   },
 
   "permissions": ["tabs"],
