@@ -1,11 +1,12 @@
 # Privatisator
 
-Firefox plugin to open the currently shown page in a private tab.
+Firefox plugin to open the currently shown page in a private tab: https://addons.mozilla.org/en-US/firefox/addon/privatisator/ .
 
 Gone are the days of Ctrl+L Ctrl+C Ctrl+Shift+P Ctrl+L (this one wasnt necessary, but ... muscle memory 🦾) Ctrl+V .
 
 Especially handy for web dev when you need to see how the current page looks without login/without certain cookies.
 
+Should also work in chromium.
 
 ## Release
 
