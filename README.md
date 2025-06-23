@@ -27,7 +27,7 @@ git push --tags
 zip -r -FS ../privatisator.zip * --exclude '*.git*'
 ```
 
-Then upload to MOA.
+Then (upload to MOA)[https://addons.mozilla.org/en-US/developers/].
 
 ## Contributions ...
 
