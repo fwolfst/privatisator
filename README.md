@@ -28,6 +28,12 @@ zip -r -FS ../privatisator.zip * --exclude '*.git*`
 
 Then upload to MOA.
 
+## Contributions ...
+
+... are welcome under given license and copyright transfer. Most comortable way is to use Github Issues/PRs or pointers to other repositories (e.g. GitLab).
+
+That is also the place to leave Feedack/Bug Reports/Feature Requests/Ideas. Thanks.
+
 ## License
 
 Licensed under the GPLv3 or any later, which comes included in this repository as [LICENSE textfile](LICENSE).
