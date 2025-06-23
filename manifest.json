@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Privatisator",
-  "version": "0.1",
+  "version": "0.2",
 
   "description": "Adds shortcut to open currently shown page in a private tab.",
 

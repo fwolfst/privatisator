@@ -18,6 +18,7 @@ ruby -i -pe '$_.gsub!(/(?<=version": ")(\d.\d)/) {|m| "#{m.to_f + 0.1}"}' manife
 VERSION=$(grep "\"version" manifest.json  | grep -o "[0-9].[0-9]")
 
 # Commit and tag
+git add .
 git commit -m "v$VERSION"
 git tag  -a "v$VERSION"
 git push -a
