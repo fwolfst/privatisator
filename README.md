@@ -10,7 +10,23 @@ Should also work in chromium.
 
 ## Release
 
-- zip it up with `zip -r -FS ../my-extension.zip * --exclude '*.git*`
+```bash
+# Bump version in manifest.json, e.g. for minor version
+ruby -i -pe '$_.gsub!(/(?<=version": ")(\d.\d)/) {|m| "#{m.to_f + 0.1}"}' manifest.json
+
+# Memorize version
+VERSION=$(grep "\"version" manifest.json  | grep -o "[0-9].[0-9]")
+
+# Commit and tag
+git commit -m "v$VERSION"
+git tag  -a "v$VERSION"
+git push -a
+
+# Zip it up
+zip -r -FS ../privatisator.zip * --exclude '*.git*`
+```
+
+Then upload to MOA.
 
 ## License
 
