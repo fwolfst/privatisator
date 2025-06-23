@@ -26,7 +26,7 @@ git push -a
 zip -r -FS ../privatisator.zip * --exclude '*.git*`
 ```
 
-Then upload to MOA.
+Then upload to MOA.
 
 ## Contributions ...
 
