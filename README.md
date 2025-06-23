@@ -20,11 +20,11 @@ VERSION=$(grep "\"version" manifest.json  | grep -o "[0-9].[0-9]")
 # Commit and tag
 git add .
 git commit -m "v$VERSION"
-git tag  -a "v$VERSION"
-git push -a
+git tag -a "v$VERSION" -m "v$VERSION"
+git push --tags
 
 # Zip it up
-zip -r -FS ../privatisator.zip * --exclude '*.git*`
+zip -r -FS ../privatisator.zip * --exclude '*.git*'
 ```
 
 Then upload to MOA.
